@@ -1,4 +1,4 @@
-# End-to-End Deep Learning Workflow for super resolution of MSI images 
+# End-to-End Deep Learning Workflow for Super Resolution of MSI 
  This workflow is implemented in Python to end-to-end restore images generated through mass spectrometry. Through the workflow, the raw images can be efficiently restored from low-resolution and noisy quality without the loss of valid biomedical information which truly speeded up the process of high-quality MSI data acquisition.
  
  ## Components
