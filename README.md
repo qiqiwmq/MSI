@@ -5,4 +5,4 @@ This workflow is implemented in Python to end-to-end restore images generated th
 The Workflow has three essential part separately to execute pre-processing, image restoration through deep learning based model inference, and post-processing to save the enhanced images and analysis.
  
 ## How to use
-For a simple start, you can just sequentially execute each cell from the first one to the "main processing" cell, while you should change the path to your dataset in the "main process" cell
+For a simple start, you can just sequentially execute each cell from the first one to the "main processing" cell in the script named "MSI_workflow", while, before processing, you should change the paths to different files in the "main process" cell.
